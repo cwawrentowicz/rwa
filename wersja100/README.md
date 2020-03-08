@@ -8,8 +8,7 @@
 
 ##### umożliwa dołączanie jednocześnie kilka skanów (teraz każdy plik trzeba wczytać oddzielnie)
 <br>
-[Instrukjca migracji z wersji 98 na wersję 100]
-(https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
-
+[Instrukjca migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
+[Instrukjca migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/)
 <br>
 <br>
