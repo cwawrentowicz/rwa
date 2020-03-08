@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "wersja100": {
+      "name": "wersja100",
+      "isOrdered": true,
+      "folders": {
+        "Dokumentacja": {
+          "name": "Dokumentacja",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "migracja użytkowników 98-100": {
+          "name": "migracja użytkowników 98-100",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "README": 0
+      }
+    },
+    "wersja98": {
+      "name": "wersja98",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
