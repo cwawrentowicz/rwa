@@ -17,6 +17,14 @@
           "isOrdered": true,
           "folders": {},
           "files": {}
+        },
+        "FAQ": {
+          "name": "FAQ",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "1. Jak zwiększyć limit  rozmiaru plików (skanów) zapisywanych do bazy": 0
+          }
         }
       },
       "files": {
