@@ -8,4 +8,7 @@
 
 ##### umożliwa dołączanie jednocześnie kilka skanów (teraz każdy plik trzeba wczytać oddzielnie)
 
-[Instrukjca migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
+[Instrukcja migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
+
+```21.03.2020 Wersja 2020```
+##### Dodano wydruk obwolut do rejestrów typu RUDA
