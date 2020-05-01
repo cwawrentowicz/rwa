@@ -10,6 +10,9 @@
 
 [Instrukcja migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
 
+```30.04.2020 Wersja 103```
+##### Poprawiono okienka typu PopUp w rejestrach Dsn i 'Rejestr faktur'. Poprawiono wydruk obwolut 
+
 ```30.03.2020 Wersja 102```
 ##### Poprawiono sortowanie list użytkowników
 
