@@ -10,7 +10,11 @@
 
 [Instrukcja migracji z wersji 98 na wersję 100](https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/RWA100_Instalacja_na_Windows_2012.docx)
 
-```10.05.2020 Wersja 104 (wersja skumulowana zawiera poprawki od 101 do 104```
+
+```25.05.2020 Wersja 105 (wersja skumulowana zawiera poprawki od 101 do 105)```
+##### Usunięto błąd  w zarządzaniu uprawnieniami do rejestrów
+
+```10.05.2020 Wersja 104 (wersja skumulowana zawiera poprawki od 101 do 104)```
 ##### Kalendarz  czytelni akt SDA pozwala na wyświetlanie danych z kilku czytelni.  W rejestrze typ IP2015 poprawiono okienko wyskakujące słownika 
 ##### https://github.com/cwawrentowicz/rwa/tree/master/wersja100/Dokumentacja/104.md
 ```30.04.2020 Wersja 103```
